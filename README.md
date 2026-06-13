@@ -17,7 +17,6 @@ Most of my work is focused on maintaining production applications, fixing bugs, 
   <a href='https://cplusplus.com/' title="C++" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo"  /></a>
   <a href='https://www.python.org/' title="Python" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  /></a>
   <a href='https://learn.microsoft.com/en-us/dotnet/csharp/' title="C#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="csharp logo"  /></a>
-  <a href='https://www.php.net/' target="_blank" title="php" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" alt="php logo"  /></a>
   <a href='https://react.dev/' title="ReactJS" target="_blank" > <img src="https://cdn.simpleicons.org/react/61DAFB" height="55" alt="react logo"  /></a>
   <a href='https://tailwindcss.com/' title="TailwindCSS" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="55" alt="tailwindcss logo"  /></a>
   <a href='https://getbootstrap.com/' title="Bootstrap" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="bootstrap logo"  /></a>
