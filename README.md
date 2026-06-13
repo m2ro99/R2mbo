@@ -5,8 +5,9 @@
 
 # 💻 Full Stack Developer   <div><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=m2ro99.m2ro99&left_color=royalblue&right_color=royalblue&left_text=Profile%20Views"  /></div>
 
-I build and maintain web applications using ASP.NET Core and React. I focus on writing clean, efficient, and maintainable code that keeps things running smoothly and performs well.
-I enjoy solving real problems, improving existing systems, and learning new technologies along the way. Always aiming to write better code, work smarter with others, and build software that actually makes a difference.
+I am a Full Stack Developer working with ASP.NET Core and React. I have 1 year of experience building and maintaining web applications in a production environment.
+My work involves fixing bugs, implementing new features, refactoring existing code, and improving system performance. I also work with SQL Server and Entity Framework Core on the backend and React on the frontend.
+Most of my work is focused on maintaining production applications, fixing bugs, and implementing new features in existing codebases.
 
 ###
   <a href='https://www.w3schools.com/html/' title="HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  /></a>
